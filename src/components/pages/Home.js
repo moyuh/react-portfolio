@@ -42,7 +42,8 @@ function Home() {
                             </div>
                         </Col>
                         <Col md ="5">
-                            <img src= "../../assets/monica.Jpg" width="500" height="600" style={{ borderRadius: 100 }}/>
+                            <img src= "../../assets/monica.Jpg" width="500" height="600" 
+                            alt="self"style={{ borderRadius: 100 }}/>
                         </Col>
                     </Row>
 

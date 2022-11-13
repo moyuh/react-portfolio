@@ -19,7 +19,7 @@ function Resume() {
       </h2>
                 </Row>
                 <Row>
-                    <img src="../../assets/References_Resume.pdf"></img>
+                    <img src="../../assets/References_Resume.pdf" alt ="resume"></img>
                 </Row>
             </Container>
         </div>

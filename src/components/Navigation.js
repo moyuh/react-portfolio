@@ -4,10 +4,6 @@ import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 import Home from './pages/Home'
 
-
-
-
-
 const Navigation =   (props) => {
   
      if(props.pageView === 'Portfolio'){
