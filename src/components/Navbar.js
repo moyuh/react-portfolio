@@ -1,7 +1,7 @@
 import React from "react";
 import { SlHome } from "react-icons/sl"
 
-export default function Navigation() {
+export default function Navbar() {
     return (
         <nav className="nav-info">
             <ul className="nav-items">
