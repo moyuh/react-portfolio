@@ -11,7 +11,7 @@ function Type() {
                 "Full-Stack Developer",
                 "Illustrator",
                 "Hard-worker",
-                "Gamer"
+                "Gamer",
             ],
             autoStart: true,
             loop: true,
@@ -35,20 +35,14 @@ function Home() {
                                 Yuh
                             </h1>
                             <h2>
-                                I am a
+                                I am a/n
                             </h2>
                             <div style={{ padding: 45, textAlign: "left" }}>
                                 <Type />
                             </div>
                         </Col>
-                        <Col md ="5">
-                            <img src= "../../assets/monica.Jpg" width="500" height="600" 
-                            alt="self"style={{ borderRadius: 100 }}/>
-                        </Col>
                     </Row>
-
                 </Container>
-
             </Container>
         </section>
     )

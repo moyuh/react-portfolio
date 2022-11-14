@@ -6,11 +6,7 @@ function Footer() {
     return (
         <Container fluid className="mainfooter">
             <Row>
-                <Col md="4" className="footer-name"
-            >
-                    <h3>🖤 Monica Yuh 🖤</h3>
-                </Col>
-                <Col md="4" className='footer-body'>
+                <Col className='footer-body'>
                     <ul className= 'footer-social-icons'>
                         <li className= 'social-icons'>
                             <a

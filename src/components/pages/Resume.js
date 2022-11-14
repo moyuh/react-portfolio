@@ -1,27 +1,18 @@
-import { Container, Row } from "react-bootstrap";
-import Particle from "../Particle";
-
 function Resume() {
     return(
-        <div>
-            <Container fluid className= "resume-section">
-                <Particle />
-                <Row>
+        <div className="resume-section">
                     <h2>
                         {}
                         <a
-                            href='../../assets/References_Resume.pdf'
-                            download='Peoples-Resume.pdf'
+                            href='https://rxresu.me/moyuh/2022webdevelopment'
+                            target={"_blank"}
+                            download='https://rxresu.me/moyuh/2022webdevelopment'
                             className='slide res-size'
+                            style={{ color: "white", textDecoration: "none"}}
         >
           Downloadable Resume
         </a>
       </h2>
-                </Row>
-                <Row>
-                    <img src="../../assets/References_Resume.pdf" alt ="resume"></img>
-                </Row>
-            </Container>
         </div>
     )
 }
