@@ -265,7 +265,7 @@ body {
     background-image: var(--section-background-color) !important;
   }
   
-  .project-card {
+  .proj-Card {
     padding-top: 50px !important;
     padding-bottom: 50px !important;
     padding-left: 25px !important;
@@ -273,6 +273,10 @@ body {
     height: auto !important;
   }
   
+  .card-img-top, .card-title, .card-body, .card-text, .project-card-view
+  {
+    background-color: #000000;
+  }
   .project-card-view {
     box-shadow: 0 4px 5px 3px rgba(0, 0, 0, 0.459) !important;
     color: white !important;
