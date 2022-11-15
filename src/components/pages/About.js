@@ -8,7 +8,7 @@ function About () {
             <Particle />
             <Container>
                 <Row style= {{ justifyContent: "center", padding: "5px" }}>
-                    <Col className= "about-me">
+                    <Col md = {7}className= "about-me">
                         <h1>
                             About Me:
                         </h1>
@@ -16,10 +16,10 @@ function About () {
                         My background is primarily in different aspects of the medical field. I enjoy art, gaming, and playing music. I have recently changed career paths into web development! 
                         </p>
                     </Col>
-                    <Col className="coding-languages">
-                        <h3>
-                            Skillset
-                        </h3>
+                    <Col md = {7} className="coding-languages">
+                        <h2>
+                            Skillset:
+                        </h2>
                         <ul className= "skillset">
                             <li>
                                 HTML

@@ -46,10 +46,10 @@ function Contact() {
  }, [email])
  
     return (  
-        <main className="bg-img"> 
+        <main className='contact-section'> 
         <form >
           <br></br><br></br>
-          <div className="container-2 ">   
+          <div className="container-2">   
               <div className="form-floating entry">
                 <input 
                 name='contactName'
@@ -90,10 +90,10 @@ function Contact() {
             </div>
             <p className="error-text">{errorMessage}</p>
               <button className="btn-main btn2" id="btn-support" type="sumbit">Submit</button>
-            <div className="cinfo">
+            <div className="contact-info">
               <p>Contact Me:</p>
               <p>Call or Text: 303-513-6115</p>
-              <a href="mailto:mlroth94@gmail.com" target="_blank" rel='noreferrer'>mlroth94@gmail.com</a>
+              <a className="email" href="mailto:mlroth94@gmail.com" target="_blank" rel='noreferrer'>mlroth94@gmail.com</a>
              </div>
             </div>
         </form>

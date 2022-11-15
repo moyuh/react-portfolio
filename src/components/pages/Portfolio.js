@@ -37,42 +37,42 @@ function Portfolio () {
                     <Col md= "4" className = "proj-Card">
                         <ProjectCards
                         imgPath={wow}
-                        title="Mythic Plus Teams"
+                        title="Mythic Plus Teams:"
                         description="A website for World of Warcraft players to prepare for Mythic Plus content by analyzing personal and team average statistics."
                         githubLink="https://mythic-plus-team.herokuapp.com/" />
                     </Col>
                     <Col md= "4" className = "proj-Card">
                         <ProjectCards
                         imgPath={mtg}
-                        title="Card Wishlist Creator"
+                        title="Card Wishlist Creator:"
                         description="A website for Magic the Gathering players to prepare a Wishlist and save it to local storage before heading to their cardshop they can also get an idea of what the cost will be."
                         githubLink="https://peoplesm.github.io/magic-app/" />
                     </Col>
                     <Col md= "4" className = "proj-Card">
                         <ProjectCards
                         imgPath={art}
-                        title="Mo Yuh Art Co"
+                        title="Mo Yuh Art Co:"
                         description=" A website displaying my art so I can show friends and clients some of my previous work."
                         githubLink="https://moyuh.github.io/moyuhartco/" />
                     </Col>
                     <Col md= "4" className = "proj-Card">
                         <ProjectCards
                         imgPath={jate}
-                        title="Just Another Text Editor"
+                        title="Just Another Text Editor:"
                         description="Uses PWA technology to save notes or code snippets with or without internet connection."
                         githubLink="https://j-ate-just-another-text-editor.herokuapp.com/" />
                     </Col>
                     <Col md= "4" className = "proj-Card">
                         <ProjectCards
                         imgPath={schedule}
-                        title="Work Day Scheduler"
+                        title="Work Day Scheduler:"
                         description="Schedule your workday using this website. Current,past, and future appointments are color coded for user ease!"
                         githubLink="https://moyuh.github.io/daily-work-scheduler/" />
                     </Col>
                     <Col md= "4" className = "proj-Card">
                         <ProjectCards
                         imgPath={notes}
-                        title="Noteworthy"
+                        title="Noteworthy:"
                         description="Keep track of the things that matter most with this note taking website!"
                         githubLink="https://dry-badlands-33193.herokuapp.com" />
                     </Col>
