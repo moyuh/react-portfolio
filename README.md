@@ -5,7 +5,7 @@ Link to the Project Repository: [REPO](https://github.com/moyuh/react-portfolio)
 
 Link to deployed project: [APP](https://moyuh.github.io/react-portfolio//)
 
-<img src="./assets/photos/portfolio.png">
+<img src="assets/portfolio.png">
 
 ## Table of Contents
 
