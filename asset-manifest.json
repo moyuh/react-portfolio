@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7f15d7f9.css",
+    "main.js": "/react-portfolio/static/js/main.664ad9d7.js",
+    "static/media/mtg.png": "/react-portfolio/static/media/mtg.4dba71a2993405863d94.png",
+    "static/media/art.png": "/react-portfolio/static/media/art.d7fc6efc02fedcf700fc.png",
+    "static/media/schedule.png": "/react-portfolio/static/media/schedule.c104191813bb67821ccd.png",
+    "static/media/wow.png": "/react-portfolio/static/media/wow.1e10b0bcc63cc9c29bc3.png",
+    "static/media/jate.png": "/react-portfolio/static/media/jate.293def57be4595d30639.png",
+    "static/media/notes.png": "/react-portfolio/static/media/notes.6ae795a411faea7b83e4.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.7f15d7f9.css.map": "/react-portfolio/static/css/main.7f15d7f9.css.map",
+    "main.664ad9d7.js.map": "/react-portfolio/static/js/main.664ad9d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f15d7f9.css",
+    "static/js/main.664ad9d7.js"
+  ]
+}
